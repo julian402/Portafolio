@@ -25,7 +25,7 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 </div>
 
-<img src="read.png"></img>
+<img src="Read.png"></img>
 
 ## 🛠️ Stack
 
