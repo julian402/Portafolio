@@ -2,6 +2,10 @@
 <h2>
     <em>Résumé</em> minimalista maquetado para web y pdf
 </h2>
+
+<p>
+Link: https://fantastic-meerkat-19b686.netlify.app/
+</p>
 <p>
 Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
 </p>
