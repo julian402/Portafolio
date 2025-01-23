@@ -1,0 +1,222 @@
+{
+    "basics": {
+      "name": "Julian M.Corredor G.",
+      "label": "Full Stack Developer",
+      "image": "/public/IMG_3451.jpg",
+      "email": "corredor.jul@hotmail.com",
+      "phone": "+57 3158858500",
+      "url": "",
+      "summary": "Tecnólogo en Desarrollo de Software por la Universidad de San Buenaventura, Bogotá, con una sólida visión de futuro y capacidad de adaptación al cambio. Autodidacta y comprometido con la creación de soluciones innovadoras, centrado en el desarrollo de software de calidad. Valoro la calidad humana y el trabajo en equipo, buscando optimizar procesos y maximizar los resultados. Me destaco por mi responsabilidad, lealtad, equidad y disposición para enfrentar nuevos retos que impulsen mi crecimiento profesional.",
+      "location": {
+        "address": "",
+        "city": "Bogotá",
+        "countryCode": "COL",
+        "region": "Colombia"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Julian Corredor",
+          "url": "www.linkedin.com/in/julian-m-corredor-g-fullstackdev"
+        },
+        {
+          "network": "X",
+          "username": "@jmgcorredor",
+          "url": "https://x.com/jmgcorredor"
+        },
+        {
+          "network": "GitHub",
+          "username": "Julian402",
+          "url": "https://github.com/julian402"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "PropulsaLLC",
+        "position": "Technical Support Representative",
+        "startDate": "2024-08-01",
+        "endDate": null,
+        "summary": "Responsable de actuar como enlace con el equipo de soporte y desarrollo, donde brindará asistencia y brindará información, responderá preguntas para resolver cualquier problema técnico que puedan enfrentar las cuentas de nuestros clientes con precisión y eficiencia."
+      },
+      {
+        "name": "PropulsaLLC",
+        "position": "Quality Data",
+        "startDate": "2024-04-10",
+        "endDate": "2024-08-01",
+        "summary": "Responsable de la recolección y seguimiento de datos de la organización asegurando la recolección de la información bajo los mejores estándares de calidad y precisión."
+      }
+    ],
+    "AcademicExperience": [
+        {
+            "name": "Bogota Institute of Technology",
+            "position": "Full Stack Developer (Proyecto con BIT)",
+            "startDate": "2024-07-01",
+            "endDate": "2024-12-21",
+            "summary": "Desarrollé una plataforma de e-commerce para la venta de ropa deportiva, con un enfoque integral en tecnologías modernas tanto en el backend como en el frontend."
+        }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universidad Uniempresarial",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Ingeniero de Software",
+      "studyType": "Bachelor",
+      "startDate": "2025-01-01",
+      "endDate": null 
+    },
+    {
+      "institution": "Bogotá Institute of Technology (BIT)",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Desarrollo Web",
+      "studyType": "Diploma",
+      "startDate": "2024-06-01",
+      "endDate": "2024-12-21",
+      "score": "4.4"
+    },
+    {
+      "institution": "Universidad de San Buenaventura",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Tecnologo Desarrollo de Software",
+      "studyType": "Technology",
+      "startDate": "2021-06-01",
+      "endDate": "2024-05-16",
+      "score": "4.0"
+
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Junior",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Medio",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Medio",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Angular",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "interests": [{
+      "name": "Technology",
+      "keywords": [
+        "Programming",
+        "Electronics"
+      ]
+    }],
+    "projects": [
+      {
+        "name": "Digipets",
+        "isActive": false,
+        "description": "Veterinaria Virtual",
+        "highlights": [
+          "Haz una consulta veterinaria en línea",
+          "En desarrollo"
+        ],
+        "url": "digipets.com.co",
+        "github": ""
+      },
+      {
+        "name": "Ecommerce",
+        "isActive": false,
+        "description": "Plataforma de venta de ropa deportiva",
+        "highlights": [
+          "Desarrollo de una plataforma de e-commerce",
+          "En desarrollo"
+        ],
+        "url": null,
+        "github": "https://github.com/julian402/ecommerce-Final.git"
+      }
+    ]
+  }
